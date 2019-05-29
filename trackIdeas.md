@@ -1,27 +1,6 @@
 # IkaFlap Idea tracker
 This file is used to note down ideas and plans for the project. This replaces any workflow organisation tool for one person projects because they can be a bit of a hassle when you are just working by yourself.
 
-## Style Guides
-I.e. conventions for coding and perhaps other aspects
-### C`#`
-Try to stick with the Google style guide for Java, where applicable, i.e.:
- * Dissable automatic `new line` basically always.
-   - In particular don't make it look like:
-   ```
-     void Goo()
-	 {
-	 
-	 }
-   ```
-   but instead like:
-   ```
-   void Goo() {
-   
-   }
-   ```
- * Set the `Tab` spacing to `2`
- * To be continued...
-
 ## Project Description
 This is my first game and my first time working in Unity. I want to learn to make simple 2D games witht he use of sprites and the C language for coding; the rest should be handled by the Unity Engine. 
 
